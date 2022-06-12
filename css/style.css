@@ -1,5 +1,5 @@
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #navi{
@@ -13,7 +13,7 @@ body {
 }
 
 #project_title {
-	color: white;
+	color: black;
 }
 
 #projects_body {
